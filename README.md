@@ -40,7 +40,7 @@ Master pytest and code coverage with tests
 Understand CI/CD
 Start learning Django and Docker in production
 📫 How to contact me
-Email: onestepxrom@gmail.com@example.com
+Email: onestepxrom@gmail.com
 Telegram: @Ser_str_py
 ⭐ A little personal
 I love understanding the structure of systems, I am interested in automation, I read books on programming and I enjoy participating in pet projects. I am open to new opportunities and collaborations 🚀
